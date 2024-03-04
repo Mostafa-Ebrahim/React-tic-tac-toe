@@ -2,20 +2,12 @@
 
 This is a simple tic-tac-toe game built using React.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/Mostafa-Ebrahim/React-tic-tac-toe.git`
-2. Navigate to the project directory: `cd React-tic-tac-toe`
-3. Install dependencies: `npm install`
-
 ## Usage
 
-1. Start the development server: `npm run preview`
-2. Open your browser and navigate to `http://localhost:4173`
-3. Play the tic-tac-toe game by clicking on the squares to make your moves.
+1. Install dependencies: `npm install`
+2. Start the development server: `npm run dev`
+3. Open the app in your browser: `http://localhost:5173`
 
-## Technologies Used
+## Deplyment
 
-- React
-- HTML
-- CSS
+The app is deployed on Github pages and can be accessed [here](https://mostafa-ebrahim.github.io/React-tic-tac-toe/).
